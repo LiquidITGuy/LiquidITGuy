@@ -35,11 +35,26 @@ Je peux t'aider sur ton projet open source pour :
 > **J'adore partager sur scène !** Tu organises une conférence, un meetup, un BBL ou un atelier ? Je suis disponible pour venir présenter un de mes talks ou en construire un sur mesure (PWA, Chrome DevTools, modernisation de legacy avec l'IA, delivery à l'ère de l'IA…).
 > 📫 Contacte-moi sur [LinkedIn](https://www.linkedin.com/in/simonbelbeoch/) ou retrouve mes sujets sur [Sessionize](https://sessionize.com/simon-belbeoch).
 
+### 📅 Retrouve-moi bientôt sur scène
+
+| Date | Événement | Lieu | Talk |
+| --- | --- | --- | --- |
+| 1ᵉʳ déc. 2026 · 15h30 | ☁️ **[Azur Tech Winter 2026](https://www.telecom-valley.fr/azurtechwinter/)** ([programme](https://www.telecom-valley.fr/wp-content/uploads/2026/10/Programme-Azur-Tech-Winter-2026.pdf)) | Sophia Antipolis · Campus SophiaTech | Chrome DevTools from Zero to Hero |
+| 14-16 janv. 2027 | ❄️ **[Snowcamp 2027](https://snowcamp.io/)** | Grenoble · [Alpexpo](https://snowcamp.io/alpexpo) | Chrome DevTools from Zero to Hero *(format Schuss)* |
+| 2 févr. 2027 | 🎓 **[Epitech Summit 2027](https://summit.epitech.eu/)** | Bordeaux | REX : codez moins, gérez plus, la nouvelle réalité des devs face à l'IA |
+| 2 févr. 2027 | 🎓 **[Epitech Summit 2027](https://summit.epitech.eu/)** | Bordeaux | Jurassic Code : moderniser 100k lignes de Django/jQuery grâce à l'IA |
+
+🤫 **Spoiler, en préparation :**
+- **Les PWA à l'assaut des stores !** *(avec Théo Gautier)* : Google Play, Microsoft Store et App Store sans une ligne de code natif… en survivant à la règle 4.2 d'Apple et au jour où Apple a voulu retirer les PWA
+- un talk qui relie la **technique et l'UX**, notamment à travers le **DDD** *(avec Cécile Freyd-Foucault)*
+
+### 🗂️ Tous mes talks
+
 | Talk | Événements |
 | --- | --- |
-| **Chrome DevTools from Zero to Hero** | Snowcamp 2027 *(à venir)* · [JUG Summer Camp 2026](https://www.youtube.com/watch?v=Xr1gn_x5was) 📺 · Web Days 2026 · [DevFest Dijon 2024](https://www.youtube.com/watch?v=NXQ2N5qEIr4) 📺 · [DevQuest 2024](https://www.youtube.com/watch?v=EmhR9xnAEFI) 📺 |
-| **Jurassic Code : moderniser 100k lignes de Django/jQuery grâce à l'IA** | [Agile en Seine 2026](https://www.agileenseine.com/programme/jurassic-code-moderniser-100k-lignes-de-django-jquery-grace-a-lia/) · [Agile Tour Montpellier 2026](https://agiletourmontpellier.fr/le-programme-de-lagile-tour-montpellier-2026/) |
-| **REX : codez moins, gérez plus, la nouvelle réalité des devs face à l'IA** | [Agile Tour Montpellier 2026](https://agiletourmontpellier.fr/le-programme-de-lagile-tour-montpellier-2026/) |
+| **Chrome DevTools from Zero to Hero** | [Azur Tech Winter 2026](https://www.telecom-valley.fr/azurtechwinter/) *(à venir)* · Snowcamp 2027 *(à venir)* · [JUG Summer Camp 2026](https://www.youtube.com/watch?v=Xr1gn_x5was) 📺 · Web Days 2026 · [DevFest Dijon 2024](https://www.youtube.com/watch?v=NXQ2N5qEIr4) 📺 · [DevQuest 2024](https://www.youtube.com/watch?v=EmhR9xnAEFI) 📺 |
+| **Jurassic Code : moderniser 100k lignes de Django/jQuery grâce à l'IA** | Epitech Summit 2027 *(à venir)* · [Agile en Seine 2026](https://www.agileenseine.com/programme/jurassic-code-moderniser-100k-lignes-de-django-jquery-grace-a-lia/) · [Agile Tour Montpellier 2026](https://agiletourmontpellier.fr/le-programme-de-lagile-tour-montpellier-2026/) |
+| **REX : codez moins, gérez plus, la nouvelle réalité des devs face à l'IA** | Epitech Summit 2027 *(à venir)* · [Agile Tour Montpellier 2026](https://agiletourmontpellier.fr/le-programme-de-lagile-tour-montpellier-2026/) |
 | **PWA : la rolls des web apps mobile first** | [Riviera Dev 2021](https://2021.rivieradev.fr/application/fr%3Furl=%252Fsession%252F1022.html) · Everywhere Event 2020 |
 | **Une PWA pour les gouverner toutes** | [Web2day 2019](https://www.youtube.com/watch?v=_vQ5L_tgL44) 📺 *(avec Clément Dubois)* |
 | **Une Progressive Web App en 90 minutes** *(atelier)* | DevFest Strasbourg 2019 *(avec Clément Dubois)* |
@@ -131,8 +146,3 @@ Je peux t'aider sur ton projet open source pour :
 - **2013 → 2015 · SFR Business Team** : ingénieur études et développement, et assistant chef de projet MOA
 - **2012 → 2013 · Orange Business Services** : expert technique sur les serveurs d'applications web
 - 🎓 **Université Paris 1 Panthéon-Sorbonne** : Master MIAGE (2e de promotion) · DUT Informatique · DU étudiant-entrepreneur
-
-## 📊 Stats GitHub
-
-![Stats GitHub de LiquidITGuy](https://github-readme-stats.vercel.app/api?username=LiquidITGuy&show_icons=true&hide_border=true)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=LiquidITGuy&layout=compact&hide_border=true)
