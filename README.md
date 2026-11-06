@@ -45,6 +45,7 @@ Je peux t'aider sur ton projet open source pour :
 | 2 févr. 2027 | 🎓 **[Epitech Summit 2027](https://summit.epitech.eu/)** | Bordeaux | Jurassic Code : moderniser 100k lignes de Django/jQuery grâce à l'IA |
 
 🤫 **Spoiler, en préparation :**
+- **Et si notre cerveau nous dupait ? L'effet placebo de l'IA sur la productivité des devs** : en 2015, j'ai promis à des utilisateurs une appli « 30 % plus rapide ». C'était la même. Ils ont été plus rapides. Et si l'IA, c'était pareil ?
 - **Les PWA à l'assaut des stores !** *(avec Théo Gautier)* : Google Play, Microsoft Store et App Store sans une ligne de code natif… en survivant à la règle 4.2 d'Apple et au jour où Apple a voulu retirer les PWA
 - un talk qui relie la **technique et l'UX**, notamment à travers le **DDD** *(avec Cécile Freyd-Foucault)*
 
